@@ -35,7 +35,6 @@ public class RoomActivity extends AppCompatActivity {
         playerList.add(new Player("PLAYER 2"));
 
 
-
         ListView listView = (ListView) findViewById(R.id.listview);
         PlayerListAdapter playersAdapter = new PlayerListAdapter(RoomActivity.this,R.layout.cardview_player,playerList);
         listView.setAdapter(playersAdapter);
