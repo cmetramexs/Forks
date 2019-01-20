@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "535212930232",
+    "firebase_url": "https://forksupphonesdown.firebaseio.com",
+    "project_id": "forksupphonesdown",
+    "storage_bucket": "forksupphonesdown.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535212930232:android:88d70677dabd8f89",
+        "android_client_info": {
+          "package_name": "com.example.celineyee.forks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535212930232-lb1ddj3hl1efapdt5djd26s1uk1qianf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANSVcCHYxzvrQ8DDzL-S6y2SPaC4xbPgM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535212930232:android:db7b5ac97108040f",
+        "android_client_info": {
+          "package_name": "com.example.celineyee.forksupphonesdown"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535212930232-lb1ddj3hl1efapdt5djd26s1uk1qianf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANSVcCHYxzvrQ8DDzL-S6y2SPaC4xbPgM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
