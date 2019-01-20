@@ -21,6 +21,8 @@
         android:theme="@style/AppTheme">
 
         <activity android:name=".RoomActivity"/>
+        <activity android:name=".InstructionsActivity"
+            android:theme="@style/AppTheme.PopUpTheme"/>
 
         <activity android:name=".MainActivity">
             <intent-filter>

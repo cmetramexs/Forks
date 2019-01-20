@@ -13,6 +13,6 @@ public class InstructionsActivity extends Activity {
         getWindowManager().getDefaultDisplay().getMetrics(dm);
         int width = dm.widthPixels;
         int height = dm.heightPixels;
-        getWindow().setLayout((int) (0.8 * width), (int) (0.8 * height));
+        getWindow().setLayout((int) (0.8 * width), (int) (0.6 * height));
     }
 }
